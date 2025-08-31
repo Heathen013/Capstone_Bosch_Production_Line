@@ -61,7 +61,7 @@ Following the exploratory data analysis, the next steps for this project include
 5.  **Deployment:** Aim Plus
 
 
-    ## Directory Structure
+ ## Directory Structure
 
     /
     ├── datasets/                      # Contains raw and processed data
@@ -103,5 +103,6 @@ Following the exploratory data analysis, the next steps for this project include
 
 - Ensure you have sufficient disk space before downloading the full dataset.
 - All processing steps are documented in the notebooks.
+
 
 
