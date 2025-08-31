@@ -61,22 +61,22 @@ Following the exploratory data analysis, the next steps for this project include
 5.  **Deployment:** Aim Plus
 
 
-## Directory Structure
+    ## Directory Structure
 
-/
-├── datasets/                      # Contains raw and processed data
-│   ├── data/                      # Empty placeholder for original 14 GB dataset
-│   └── processed_data/            # Contains processed CSV files
-│       ├── cat_sampled.csv
-│       ├── date_sampled.csv
-│       ├── merged_sampled.csv
-│       └── num_sampled.csv
-├── images/                        # Folder for storing visual assets,images included but not listed here for brevity
-│   
-├── notebooks/                     # Jupyter notebooks for data handling and analysis
-│   ├── Handling_data_in_stratified_chunks_sampled_merged_bosch.ipynb
-│   └── EDA_bosch.ipynb
-└── README.md                      # Project overview and instructions
+    /
+    ├── datasets/                      # Contains raw and processed data
+    │   ├── data/                      # Empty placeholder for original 14 GB dataset
+    │   └── processed_data/            # Contains processed CSV files
+    │       ├── cat_sampled.csv
+    │       ├── date_sampled.csv
+    │       ├── merged_sampled.csv
+    │       └── num_sampled.csv
+    ├── images/                        # Folder for storing visual assets,images included but not listed here for brevity
+    │   
+    ├── notebooks/                     # Jupyter notebooks for data handling and analysis
+    │   ├── Handling_data_in_stratified_chunks_sampled_merged_bosch.ipynb
+    │   └── EDA_bosch.ipynb
+    └── README.md                      # Project overview and instructions
 
 
 
@@ -103,4 +103,5 @@ Following the exploratory data analysis, the next steps for this project include
 
 - Ensure you have sufficient disk space before downloading the full dataset.
 - All processing steps are documented in the notebooks.
+
 
